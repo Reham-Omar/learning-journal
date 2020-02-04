@@ -1,22 +1,26 @@
 body{
     background-color: beige; }
 
-header h1 {
+ h1 {
     color: rgb(173,141,50);
     text-align : center;
 
 }
-header nav ul li {
-    display: inline-block;
-    color: aquamarine;
-    padding :25px
-}
+nav ul li a {   
+    color: goldenrod;
+    padding :12px;
 
+}
+ h2 {
+    color: chocolate;
+}
     
 img {
     width: 350;
-    height: 300;}
+    height: 200;}
 
-footer{ color: brown;
+footer{ color: black;
 background-color: burlywood;
+padding:15px ;
+padding-left : 200px;
 }
