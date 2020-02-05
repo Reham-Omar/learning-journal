@@ -1,7 +1,8 @@
 
 # summary 
 ## lab 6 b
-Read 06 steps:
+## how to copy full text :
+
 1- Create new repo on GitHub and name it practice-js
 
 2- Clone this repo on your computer locally inside projects folder
