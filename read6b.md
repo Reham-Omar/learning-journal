@@ -8,11 +8,11 @@ the principal characteristics of a computer are:
 
 computers can take inputs, store information, process it and then output the results .
 ### Input tools :
-keybord , mouse ,touch screen , micrephon
+keybord , mouse ,touch screen , microphon
 ### store information
-all these diffrente input  stored in *memory* .
+all these different input  stored in *memory* .
 ### processing
- all the informations in memory processed by a *prosessor (CPU)*
+ all the informations in memory processed by a *prossecor (CPU)*
 ### output
 computer outputs info depends on what the computer is designed to do 
 like it can show  photo ,videos, text , signals.
@@ -22,4 +22,4 @@ like it can show  photo ,videos, text , signals.
 * you can have one bit which the smallest information computer can store. 
 * inside a computers there’s wires and circiuts carry all the information. 
 with one wire with electricity flowing through it , the signal could be one or off so it can represent a yes or no .
-* with more wires more bits with more bits you can represent more complex informatio
+* with more wires more bits with more bits you can represent more complex information
