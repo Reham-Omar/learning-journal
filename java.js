@@ -1,20 +1,21 @@
+
 var person = prompt("Please enter your name", "Reham Omar");
 
  if (person != null) {
-  document.getElementById("drink").innerHTML =
-   "Hello " + person + "! How are you today?";
+  person = prompt("hello   " + person + "   how are you today?");
+  
  }
 
 function myFunction() {
   var txt;
-  var r = confirm("Are you from jordan ?");
-  if (r == true) {
-    txt = "I really love jordan";
+  var r = prompt("Are you from jordan ?");
+  if (r == "yes") {
+    person =confirm ("I'm from jordan too ?");
   } else {
-    txt = "welcome to jordan";
+    person = confirm ("Welcome to jordan ");
   }
-  console.log(txt)
-  document.getElementById("demo").innerHTML = txt;
+  /*console.log(txt)*/
+  /*document.getElementById("demo").innerHTML = txt;*/
 }
 myFunction ();
 
