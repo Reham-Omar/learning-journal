@@ -1,11 +1,11 @@
 # EXPRESSIONS 
-## EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE var color = 'beige'; 
-## EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE var area = 3 * 2; 
-## COMPARISON OPERATORS 
+### EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE var color = 'beige'; 
+### EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE var area = 3 * 2; 
+### COMPARISON OPERATORS 
 Compare two values and return true or fa 1 se buy = 3 > 5; 
 ##LOGICAL OPERATORS 
 Combine expressions and return true or fa 1 se buy= (5 > 3) && (2 < 4); 
-## MIXING NUMBERS AND STRINGS TOGETHER 
+### MIXING NUMBERS AND STRINGS TOGETHER 
 var costl = '7'; 
 var cost2 = '9 ' ; 
 var total = costl + cost2;
