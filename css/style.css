@@ -6,11 +6,19 @@ body{
     text-align : center;
 
 }
-nav ul li a {   
-    color: goldenrod;
-    padding :12px;
+
+nav ul li {
+    display: inline-block;
+}
+ nav ul li a { 
+  color: goldenrod;
+  padding :80px; 
 
 }
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
  h2 {
     color: chocolate;
 }
