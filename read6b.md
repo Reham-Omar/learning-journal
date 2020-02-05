@@ -1,23 +1,25 @@
 
 # summary 
 ## lab 6 b
-## how to copy full text :
+### How does the computer work ?
+the principal characteristics of a computer are:
+1- It responds to a specific set of instructions in a well-defined manner 
+2- it can execute a prerecorded list of instructions 
 
-1- Create new repo on GitHub and name it practice-js
+computers can take inputs, store information, process it and then output the results .
+### Input tools :
+keybord , mouse ,touch screen , micrephon
+### store information
+all these diffrente input  stored in *memory* .
+### processing
+ all the informations in memory processed by a *prosessor (CPU)*
+### output
+computer outputs info depends on what the computer is designed to do 
+like it can show  photo ,videos, text , signals.
 
-2- Clone this repo on your computer locally inside projects folder
-
-3- Go to https://github.com/LTUC/amman-102d3/ and clone this repo on your computer locally
-inside projects folder
-
-4- Now, we want to copy a starter code from class-06 folder that is inside the amman-102d6 repo
-to our repo practice-js using this command:
-
-cp -r amman-102d3/class-06/starter-code/* practice-js
-
-5- Open your practice-js project on Vscode
-
-6- Create new HTML file and name it add-content.html 
-
-7- Create new folder and name it (js) then create a file inside this folder and name add-content.js
-
+### how computers represente information using electricity?
+* ones and zeros do play a big role in how computer work from the inside.
+* you can have one bit which the smallest information computer can store. 
+* inside a computers there’s wires and circiuts carry all the information. 
+with one wire with electricity flowing through it , the signal could be one or off so it can represent a yes or no .
+* with more wires more bits with more bits you can represent more complex informatio
