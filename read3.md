@@ -25,14 +25,16 @@ remote3 https://github.com/remote3/example (push)
 
 for ex :
 
-$ git remote
-origin
+$ git remote origin
+
 $ git remote add js https://github.com/janesmith/project1
-$ git remote -v
-origin https://github.com/johndoe/project1 (fetch)
-origin https://github.com/johndoe/project1 (push)
-js     https://github.com/janesmith/project1 (fetch)
-js     https://github.com/janesmith/project1 (push)
+
+$ git remote -v 
+
+origin https://github.com/johndoe/project1 (fetch)  
+origin https://github.com/johndoe/project1 (push)  
+js     https://github.com/janesmith/project1 (fetch)  
+js     https://github.com/janesmith/project1 (push)  
 
 ## Fetching
 
